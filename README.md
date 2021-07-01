@@ -3,7 +3,7 @@
 
 
 
-<img src="https://count.getloli.com/get/@annkoxx?theme=moebooru-h" alt=":name" />
+<!-- <img src="https://count.getloli.com/get/@annkoxx?theme=moebooru-h" alt=":name" /> -->
 
 <!-- ### 💜 Annko (红豆) -->
 
